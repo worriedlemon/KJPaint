@@ -1,0 +1,4 @@
+All products used for implementing Kotlin JPaint
+are free or open-source, no copyright.
+
+All rights reserved

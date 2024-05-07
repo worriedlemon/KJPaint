@@ -1,0 +1,7 @@
+All icons from
+
+'src/main/resources/kjpaint/icons'
+
+were downloaded by free from website
+
+https://icons8.ru/

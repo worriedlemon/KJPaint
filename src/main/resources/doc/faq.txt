@@ -1,0 +1,32 @@
+Kotlin JPaint (c:) FAQ
+
+1. Using Program
+
+In the main window there are 3 panels:
+1) The biggest one is basically a canvas, where you draw your fantasies with Left Mouse Button
+2) On the left side there is a selection menu, where brush, bucket, shapes and colors can be chosen:
+  - first button is brush tool
+  - second button is filler tool - bucket, which can fill closed contours (or all painting are if there are none) with Fill Color
+  - third button is shape chooser, where you can choose a shape to draw between rectangle, oval and straight line
+  - fourth button represent Outline Color Chooser
+  - fifth button represent Fill Color Chooser
+  - also you can use Eraser tool by drawing with Right Mouse Button
+
+3) Above there is a toolbar, where thickness of drawing components can be tweaked, which are:
+  - brush thickness - size of brush tip
+  - eraser thickness - size of area to be erased
+  - outline thickness - width of the shape border
+
+To save your masterpiece go to menu and click File - Save.
+Also you can Undo/Redo changes by clicking Edit - Undo/Redo.
+
+2. Hot keys
+- Shift    - activate "right" mode
+   Tip: all shapes will be right, e.g:
+   - rectangle will become square;
+   - oval will become circle;
+   - lines will be aligned by right angle or by 45 degrees (depends on line direction)
+
+- Ctrl + S - saving image
+- Ctrl + Z - undo
+- Ctrl + Y - redo
