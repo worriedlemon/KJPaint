@@ -21,4 +21,4 @@ In this simple program you can:
 
 ## Conclusion
 
-Many thanks for icons, [icons8.ru](https://icons8.ru/).
+Many thanks for icons, [icons8.com](https://icons8.com/).
